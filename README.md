@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sami Rhalim</h1>
 <h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️</h3>
 <p align="center">
-  <img src="n8agw6z2smyb1.gif" alt="coding" style="width: 100%; max-width: 300px; height: auto;">
+  <img src="n8agw6z2smyb1.gif" alt="coding" style="width: 100%; max-width: 700px; height: auto;">
 </p>
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyrh&label=Profile%20views&color=0e75b6&style=flat" alt="samyrh" /> </p>
