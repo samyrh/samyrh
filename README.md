@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Rhalim</h1>
-<h3 align="center">Java Lover and Developer || React.js Enthusiast 💻</h3>
+<h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️</h3>
 <p align="center">
   <img src="n8agw6z2smyb1.gif" alt="coding" style="width: 100%; max-width: 700px; height: auto;">
 </p>
