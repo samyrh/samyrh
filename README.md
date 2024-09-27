@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sami Rhalim</h1>
 <h3 align="center">Java Lover and Developer || React.js Enthusiast 💻</h3>
-    <img src="C:\Users\MSI\Downloads\n8agw6z2smyb1" align="right" alt="coding" width="400">
+   <img src="assets/n8agw6z2smyb1.gif" align="right" alt="coding" width="400">
+   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyrh&label=Profile%20views&color=0e75b6&style=flat" alt="samyrh" /> </p>
 
 - 🔭 I’m currently working on [Vinci App](https://github.com/samyrh/Vinci-Axians)
