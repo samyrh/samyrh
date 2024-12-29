@@ -7,9 +7,9 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyrh&label=Profile%20views&color=0e75b6&style=flat" alt="samyrh" /> </p>
 
-- 🔭 I’m currently working on [Vinci App](https://github.com/samyrh/Vinci-Axians)
+- 🔭 I’m currently working on [Spacebnb](https://github.com/samyrh/Air-Space-App.git)
 
-- 🌱 I’m currently learning **Spring AI**
+- 🌱 I’m currently learning **Spring Microservices || Messages Brokers || Resilience4j**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samyrh](https://github.com/samyrh)
 
