@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sami Rhalim</h1>
-<h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️</h3>
+<h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️ || Kafka Streams 🔄</h3>
 <p align="center">
   <img src="n8agw6z2smyb1.gif" alt="coding" style="width: 100%; height: auto;">
 </p>
 
-   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyrh&label=Profile%20views&color=0e75b6&style=flat" alt="samyrh" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=samyrh&label=Profile%20views&color=0e75b6&style=flat" alt="samyrh" /> 
+</p>
 
-- 🔭 I’m currently working on [Spacebnb](https://github.com/samyrh/Air-Space-App.git)
+- 🔭 I’m currently working on [Spacebnb](https://github.com/samyrh/Air-Space-App.git)  
 
-- 🌱 I’m currently learning **Spring Microservices || Messages Brokers || Resilience4j**
+- 🌱 I’m currently learning **Spring Microservices || Kafka Streams || Message Brokers || Resilience4j**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/samyrh](https://github.com/samyrh)
+- ⚙️ I'm working with **Microservices**, **Kafka Streams**, and **Message Brokers**  
 
-- 💬 Ask me about **Java and the Spring Framework || Building frontends with React.js**
+- 👨‍💻 All of my projects are available at [https://github.com/samyrh](https://github.com/samyrh)  
 
-- 📫 How to reach me **Rhalimsami8@gmail.com**
+- 💬 Ask me about **Java and the Spring Framework || Kafka Streams || Building frontends with React.js**  
 
-- ⚡ Fun fact **Spring is named after the season to be a fresh start for developers! 🌸**
+- 📫 How to reach me **Rhalimsami8@gmail.com**  
+
+- ⚡ Fun fact **Spring is named after the season to be a fresh start for developers! 🌸**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
