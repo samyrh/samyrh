@@ -50,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="56" height="56"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="56" height="56"/>
   <img src="https://jwt.io/img/logo.svg" alt="JWT" width="56" height="56"/>
-  <img src="https://www.vectorlogo.zone/logos/oauth/oauth-ar21.svg" alt="OAuth2" width="84" height="56"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="56" height="56"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="56" height="56"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="56" height="56"/>
@@ -81,7 +80,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="56" height="56"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="56" height="56"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="56" height="56"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-white.png" alt="GitHub" width="56" height="56"/>
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="56" height="56"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="56" height="56"/>
 
   <!-- Design & API -->
