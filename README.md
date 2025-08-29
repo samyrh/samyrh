@@ -22,6 +22,7 @@
 
 - ⚡ Fun fact **Spring is named after the season to be a fresh start for developers! 🌸**  
 
+- 🔭 My portfolio is available at [samirhalim.vercel.app](https://samirhalim.vercel.app/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
