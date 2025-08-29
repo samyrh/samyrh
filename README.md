@@ -30,9 +30,10 @@
 <a href="https://instagram.com/samy_rh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samy_rh" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">🚀 Languages & Tools</h3>
+<h3 align="left">🚀 Languages & Tools</h3>
 
 <table align="center">
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="64" height="64"/><br>HTML5</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="64" height="64"/><br>CSS3</td>
@@ -40,40 +41,46 @@
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" height="64"/><br>TypeScript</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" height="64"/><br>React</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="64" height="64"/><br>Angular</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="64" height="64"/><br>Vue.js</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" height="64"/><br>Flutter</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64"/><br>Tailwind</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="64" height="64"/><br>Bootstrap</td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="64" height="64"/><br>Vue.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" height="64"/><br>Flutter</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64" height="64"/><br>Java</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="64" height="64"/><br>Spring</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64" height="64"/><br>Spring</td>
     <td align="center"><img src="https://laravel.com/img/logomark.min.svg" width="64" height="64"/><br>Laravel</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="64" height="64"/><br>Hibernate</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="64" height="64"/><br>Node.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="64" height="64"/><br>FastAPI</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="64" height="64"/><br>GraphQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="64" height="64"/><br>Apache</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="64" height="64"/><br>Tomcat</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="64" height="64"/><br>Android Studio</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="64" height="64"/><br>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="64" height="64"/><br>MySQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="64" height="64"/><br>PostgreSQL</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="64" height="64"/><br>Redis</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="64" height="64"/><br>Kafka</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="64" height="64"/><br>RabbitMQ</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="64" height="64"/><br>Docker</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="64" height="64"/><br>Jenkins</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="64" height="64"/><br>Kubernetes</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="64" height="64"/><br>Git</td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
     <td align="center"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="64" height="64"/><br>GitLab</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="64" height="64"/><br>Bitbucket</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="64" height="64"/><br>Jira</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="64" height="64"/><br>NPM</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="64" height="64"/><br>Apache</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64" height="64"/><br>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="64" height="64"/><br>TensorFlow</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="64" height="64"/><br>Keras</td>
@@ -81,6 +88,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="64" height="64"/><br>NumPy</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="64" height="64"/><br>Matplotlib</td>
   </tr>
+
+  <!-- Row 5 -->
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="64" height="64"/><br>Anaconda</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="64" height="64"/><br>Postman</td>
@@ -88,14 +97,10 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="64" height="64"/><br>Swagger</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="64" height="64"/><br>Figma</td>
     <td align="center"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="64" height="64"/><br>IntelliJ</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="64" height="64"/><br>WebStorm</td>
     <td align="center"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="64" height="64"/><br>PyCharm</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="64" height="64"/><br>VS Code</td>
     <td align="center"><img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" width="64" height="64"/><br>PhpStorm</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="64" height="64"/><br>Tomcat</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="64" height="64"/><br>JUnit</td>
   </tr>
 </table>
 
