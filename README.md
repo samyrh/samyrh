@@ -34,9 +34,10 @@
   <a href="https://www.instagram.com/__samyrh?igsh=MW9kNnpjNDNkaGZmcA%3D%3D&utm_source=qr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://samirhalim.vercel.app/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" />
-  </a>
+<a href="https://samirhalim.vercel.app/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 
