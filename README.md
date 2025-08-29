@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Rhalim</h1>
-<h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️ || Kafka Streams 🔄</h3>
+<h3 align="center">Java Lover and Developer ☕️ || React.js Enthusiast ⚛️ || Kafka Streams 🔄 || Microservices & Resilience Patterns 🏗️</h3>
 <p align="center">
   <img src="n8agw6z2smyb1.gif" alt="coding" style="width: 100%; height: auto;">
 </p>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sami rhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami rhalim" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sami rhalim](https://www.linkedin.com/in/sami-rhalim-b444792ba/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami rhalim" height="30" width="40" /></a>
 <a href="https://fb.com/sami rhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sami rhalim" height="30" width="40" /></a>
 <a href="https://instagram.com/samy_rh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samy_rh" height="30" width="40" /></a>
 </p>
